@@ -52,7 +52,7 @@
     height: 75%;
     cursor: pointer;
     /* stem outline 2D7600 */
-    display: none;
+    display: block;
 }
 
 

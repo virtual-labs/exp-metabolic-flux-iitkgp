@@ -96,6 +96,7 @@ if (optionsisotope.options[optionsisotope.selectedIndex].value == 0) {
 
 }
 
+
 function selectduration() {
     var optionsduration = document.getElementById("btn6");
 if (optionsduration.options[optionsduration.selectedIndex].value == 0) {
