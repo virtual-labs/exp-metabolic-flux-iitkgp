@@ -1,4 +1,4 @@
-function restartexp(){
+function restartexp() {
     window.location.reload();
 }
 
@@ -60,7 +60,7 @@ function expgoalcheckbox() {
     if ((checkbox5.checked)) {
         document.getElementById("btn5").disabled = false;
         document.getElementById("btn5").setAttribute("onchange", "selectisotope()");
-document.getElementById("btn4").disabled = true;
+        document.getElementById("btn4").disabled = true;
     }
     else {
         document.getElementById("btn5").disabled = true;
@@ -71,10 +71,10 @@ document.getElementById("btn4").disabled = true;
 
 function selectisotope() {
     var optionsisotope = document.getElementById("btn5");
-if (optionsisotope.options[optionsisotope.selectedIndex].value == 0) {
+    if (optionsisotope.options[optionsisotope.selectedIndex].value == 0) {
         alert("Select Isotope Labelling ");
         document.getElementById("btn6").disabled = true;
-        
+
     }
 
     if (optionsisotope.options[optionsisotope.selectedIndex].value == 1) {
@@ -83,15 +83,15 @@ if (optionsisotope.options[optionsisotope.selectedIndex].value == 0) {
         document.getElementById("btn5").disabled = true;
         document.getElementById("btn6").setAttribute("onchange", "selectduration()");
     }
-     if (optionsisotope.options[optionsisotope.selectedIndex].value == 2) {
+    if (optionsisotope.options[optionsisotope.selectedIndex].value == 2) {
         alert("Incorrect Isotope Labelling is selected");
         document.getElementById("btn6").disabled = true;
-        
+
     }
     if (optionsisotope.options[optionsisotope.selectedIndex].value == 3) {
         alert("Incorrect Isotope Labelling is selected");
         document.getElementById("btn6").disabled = true;
-        
+
     }
 
 }
@@ -99,10 +99,10 @@ if (optionsisotope.options[optionsisotope.selectedIndex].value == 0) {
 
 function selectduration() {
     var optionsduration = document.getElementById("btn6");
-if (optionsduration.options[optionsduration.selectedIndex].value == 0) {
+    if (optionsduration.options[optionsduration.selectedIndex].value == 0) {
         alert("Select labelling duration");
         document.getElementById("btn7").disabled = true;
-        
+
     }
 
     if (optionsduration.options[optionsduration.selectedIndex].value == 1) {
@@ -114,12 +114,12 @@ if (optionsduration.options[optionsduration.selectedIndex].value == 0) {
     if (optionsduration.options[optionsduration.selectedIndex].value == 2) {
         alert("Incorrect labelling duration is selected");
         document.getElementById("btn7").disabled = true;
-        
+
     }
     if (optionsduration.options[optionsduration.selectedIndex].value == 3) {
         alert("Incorrect labelling duration is selected");
         document.getElementById("btn7").disabled = true;
-        
+
     }
 
 }
@@ -134,7 +134,7 @@ function btn7click() {
 }
 
 function btn8click() {
-    
+
     document.getElementById("incubatorcss").style.display = "none";
     document.getElementById("incubatorcss1").style.display = "block";
     window.scrollBy(0, 1500);
@@ -143,55 +143,55 @@ function btn8click() {
     document.getElementById("btn9").setAttribute("onclick", "btn9click()");
 }
 
-function btn9click(){
- document.getElementById("incubatorcss1").style.display = "none";
+function btn9click() {
+    document.getElementById("incubatorcss1").style.display = "none";
     document.getElementById("harvetplanttissuecss").style.display = "block";
     window.scrollBy(0, 1500);
-     document.getElementById("btn10").disabled = false;
-     document.getElementById("btn9").disabled = true;
+    document.getElementById("btn10").disabled = false;
+    document.getElementById("btn9").disabled = true;
     document.getElementById("btn10").setAttribute("onclick", "btn10click()");
 }
 
-function btn10click(){
- document.getElementById("harvetplanttissuecss").style.display = "none";
+function btn10click() {
+    document.getElementById("harvetplanttissuecss").style.display = "none";
     document.getElementById("freezetissuesamplesn2css").style.display = "block";
     window.scrollBy(0, 1500);
-     document.getElementById("btn11").disabled = false;
-     document.getElementById("btn10").disabled = true;
+    document.getElementById("btn11").disabled = false;
+    document.getElementById("btn10").disabled = true;
     document.getElementById("btn11").setAttribute("onclick", "btn11click()");
 }
 
-function btn11click(){
- document.getElementById("freezetissuesamplesn2css").style.display = "none";
+function btn11click() {
+    document.getElementById("freezetissuesamplesn2css").style.display = "none";
     document.getElementById("extractfrozensamplescss").style.display = "block";
     window.scrollBy(0, 1500);
-     document.getElementById("btn12").disabled = false;
-     document.getElementById("btn11").disabled = true;
+    document.getElementById("btn12").disabled = false;
+    document.getElementById("btn11").disabled = true;
     document.getElementById("btn12").setAttribute("onclick", "btn12click()");
 }
 
-function btn12click(){
- document.getElementById("extractfrozensamplescss").style.display = "none";
+function btn12click() {
+    document.getElementById("extractfrozensamplescss").style.display = "none";
     document.getElementById("quantifymetaboliccss").style.display = "block";
     window.scrollBy(0, 1500);
-     document.getElementById("btn13").disabled = false;
-     document.getElementById("btn12").disabled = true;
+    document.getElementById("btn13").disabled = false;
+    document.getElementById("btn12").disabled = true;
     document.getElementById("btn13").setAttribute("onclick", "btn13click()");
 }
-function btn13click(){
- document.getElementById("quantifymetaboliccss").style.display = "none";
+function btn13click() {
+    document.getElementById("quantifymetaboliccss").style.display = "none";
     document.getElementById("generatemetaboliccss").style.display = "block";
     window.scrollBy(0, 1500);
-     document.getElementById("btn14").disabled = false;
-     document.getElementById("btn13").disabled = true;
+    document.getElementById("btn14").disabled = false;
+    document.getElementById("btn13").disabled = true;
     document.getElementById("btn14").setAttribute("onclick", "btn14click()");
 }
 
 
-function btn14click(){
- document.getElementById("generatemetaboliccss").style.display = "none";
+function btn14click() {
+    document.getElementById("generatemetaboliccss").style.display = "none";
     document.getElementById("softwarepccss").style.display = "block";
     window.scrollBy(0, 1500);
     document.getElementById("btn14").disabled = true;
-    
+
 }
