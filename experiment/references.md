@@ -32,3 +32,15 @@ Offers a historical analysis of the development of photosynthesis research, incl
 18.	Lu, S., Van Eck, J., Zhou, X. et al. (2006). The cauliflower or gene encodes a DnaJ cysteine-rich domain-containing protein that mediates high levels of β-carotene accumulation. The Plant Cell 18: 3594–3605
 19.	Zhou, X., Welsch, R., Yang, Y. et al. (2015). Arabidopsis OR proteins are the major posttranscriptional regulators of phytoene synthase in controlling carotenoid biosynthesis. Proceedings of the National Academy of Sciences 112: 3558–3563.
 20.	Bai, C., Capell, T., Berman, J. et al. (2016). Bottlenecks in carotenoid biosynthesis and accumulation in rice endosperm are influenced by the precursor–product balance. Plant Biotechnology Journal 14: 195–205.
+21. R.G. Ratcliffe, Y. Shachar-Hill. Measuring multiple fluxes through plant metabolic networks. Plant J, 45 (2006), pp. 490-511. D.K. Allen, I.G. Libourel, Y. Shachar-Hill
+22. Metabolic flux analysis in plants: coping with complexity. Plant Cell Environ, 32 (2009), pp. 1241-1257
+23. N.J. Kruger, J.E. Huddleston, P. Le Lay, N.D. Brown, R.G. Ratcliffe. Network flux analysis: Impact of C-13-substrates on metabolism in Arabidopsis thaliana cell suspension cultures. Phytochemistry, 68 (2007), pp. 2176-2188
+24. J.W. Graham, T.C. Williams, M. Morgan, A.R. Fernie, R.G. Ratcliffe, L.J. Sweetlove. Glycolytic enzymes associate dynamically with mitochondria in response to respiratory demand and support substrate channeling. Plant Cell, 19 (2007), pp. 3723-3738
+25. E. Heinzle, F. Matsuda, H. Miyagawa, K. Wakasa, T. Nishioka. Estimation of metabolic fluxes, expression levels and metabolite dynamics of a secondary metabolic pathway in potato using label pulse-feeding experiments combined with kinetic network modelling and simulation. Plant J, 50 (2007), pp. 176-187
+26. F. Matsuda, K. Morino, R. Ano, M. Kuzawa, K. Wakasa, H. Miyagawa.Metabolic flux analysis of the phenylpropanoid pathway in elicitor-treated potato tuber tissue. Plant Cell Physiol, 46 (2005), pp. 454-466
+27. C.J. Baxter, J.L. Liu, A.R. Fernie, L.J. Sweetlove. Determination of metabolic fluxes in a non-steady-state system. Phytochemistry, 68 (2007), pp. 2313-2319
+28. T.C. Williams, L. Miguet, S.K. Masakapalli, N.J. Kruger, L.J. Sweetlove, R.G. Ratcliffe. Metabolic network fluxes in heterotrophic Arabidopsis cells: stability of the flux distribution under different oxygenation conditions. Plant Physiol, 148 (2008), pp. 704-718
+29. D.K. Allen, Y. Shachar-Hill, J.B. Ohlrogge. Compartment-specific labeling information in 13C metabolic flux analysis of plants. Phytochemistry, 68 (2007), pp. 2197-2210
+30. C.A. Lehmeier, F.A. Lattanzi, R. Schaufele, M. Wild, H. Schnyder. Root and shoot respiration of perennial ryegrass are supplied by the same substrate pools: assessment by dynamic 13C labeling and compartmental analysis of tracer kinetics. Plant Physiol, 148 (2008), pp. 1148-1158
+31. S. Troufflard, A. Roscher, B. Thomasset, J.N. Barbotin, S. Rawsthorne, J.C. Portais. In vivo 13C NMR determines metabolic fluxes and steady state in linseed embryos. Phytochemistry, 68 (2007), pp. 2341-2350
+
