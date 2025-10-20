@@ -3,7 +3,7 @@
 <b>Discipline | <b>Interdisciplinary Sciences and Engineering
 :--|:--|
 <b> Lab | <b> Plant Metabolic Engineering Lab
-<b> Experiment|     <b> Metabolic flux determination, pathway engineering in plants and Experiment number 65
+<b> Experiment|     <b> Metabolic flux determination, pathway engineering in plants and Experiment number 7
 
 ### About the Experiment 
 
