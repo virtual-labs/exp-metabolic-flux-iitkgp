@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which of the following is a central metabolic pathway common to all organisms?",
+      "answers": {
+        "a": "Photosynthesis",
+        "b": "Glycolysis",
+        "c": "Nitrogen fixation",
+        "d": "C4 cycle"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. An example of a secondary metabolite in plants is:",
+      "answers": {
+        "a": "Sucrose",
+        "b": "Glucose",
+        "c": "Lignin",
+        "d": "Pyruvate"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Which discipline integrates computational models with experimental metabolic data?",
+      "answers": {
+        "a": "Genetics",
+        "b": "Systems biology",
+        "c": "Ecology",
+        "d": "Morphology"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which molecule serves as a template for protein synthesis?",
+      "answers": {
+        "a": "DNA",
+        "b": "tRNA",
+        "c": "mRNA",
+        "d": "rRNA"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Which technique is commonly used to introduce foreign genes into plant cells?",
+      "answers": {
+        "a": "Gel electrophoresis",
+        "b": ". Polymerase chain reaction (PCR)",
+        "c": "Agrobacterium-mediated transformation",
+        "d": "CRISPR sequencing"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+
+/home/runner/work/exp-metabolic-flux-iitkgp/exp-metabolic-flux-iitkgp/experiment/simulation/js/main.js
+    1:10  warning  'restartexp' is defined but never used         no-unused-vars
+    5:10  warning  'showselectedplant' is defined but never used  no-unused-vars
+   13:10  warning  'showplanttisse' is defined but never used     no-unused-vars
+   25:10  warning  'enablecheckboxes' is defined but never used   no-unused-vars
+   45:10  warning  'expgoal' is defined but never used            no-unused-vars
+   58:10  warning  'expgoalcheckbox' is defined but never used    no-unused-vars
+   72:10  warning  'selectisotope' is defined but never used      no-unused-vars
+  100:10  warning  'selectduration' is defined but never used     no-unused-vars
+  127:10  warning  'btn7click' is defined but never used          no-unused-vars
+  136:10  warning  'btn8click' is defined but never used          no-unused-vars
+  146:10  warning  'btn9click' is defined but never used          no-unused-vars
+  155:10  warning  'btn10click' is defined but never used         no-unused-vars
+  164:10  warning  'btn11click' is defined but never used         no-unused-vars
+  173:10  warning  'btn12click' is defined but never used         no-unused-vars
+  181:10  warning  'btn13click' is defined but never used         no-unused-vars
+  191:10  warning  'btn14click' is defined but never used         no-unused-vars
+
+✖ 16 problems (0 errors, 16 warnings)
+

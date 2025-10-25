@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Metabolic flux refers to:",
+      "answers": {
+        "a": "Gene expression levels",
+        "b": "Enzyme concentration",
+        "c": "Rate of turnover of metabolites in a pathway",
+        "d": "Transport of water in xylem"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. What does isotopic labeling help with in metabolic studies?",
+      "answers": {
+        "a": "Measuring pH",
+        "b": "Tracing carbon flow through metabolic pathways",
+        "c": "Identifying DNA mutations",
+        "d": "Visualizing organelles"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. In a metabolic network, nodes usually represent:",
+      "answers": {
+        "a": "Genes",
+        "b": "Enzymes",
+        "c": "Metabolites",
+        "d": "Cells"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. CRISPR/Cas9 is used in plant pathway engineering to:",
+      "answers": {
+        "a": "Increase photosynthesis efficiency",
+        "b": "Deliver mRNA",
+        "c": "Edit specific genes",
+        "d": "Produce fertilizers"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Metabolic engineering often targets which part of the plant cell?",
+      "answers": {
+        "a": "Vacuole",
+        "b": "Plasmodesmata",
+        "c": "Biosynthetic pathway",
+        "d": ". Cell wall"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
