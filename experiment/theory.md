@@ -16,6 +16,10 @@ Notwithstanding the arduous and perilous characteristics of early radioisotope r
 
 The initial investigations employing radioisotopes were technically challenging and necessitated both inventiveness and accuracy.  Nonetheless, they substantially altered our comprehension of plant metabolism.  These advancements persist in influencing contemporary study fields, ranging from synthetic biology to climate science, highlighting the enduring significance of these initial discoveries.
 
+<div>
+<img src="./images/Theory Figure 1.png" style="max-width:100%; height:auto;">
+<p>A schematic diagram for a metabolic flux analysis and pathway engineering experiment in plant system</p>
+</div>
 
 #### Tools for metabolic flux determination
 #### I. **Experimental Tools**
