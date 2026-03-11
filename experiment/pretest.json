@@ -53,9 +53,69 @@
       "question": "5. Which technique is commonly used to introduce foreign genes into plant cells?",
       "answers": {
         "a": "Gel electrophoresis",
-        "b": ". Polymerase chain reaction (PCR)",
+        "b": "Polymerase chain reaction (PCR)",
         "c": "Agrobacterium-mediated transformation",
         "d": "CRISPR sequencing"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. Which process is the primary source of fixed carbon in plants?",
+      "answers": {
+        "a": "Glycolysis",
+        "b": "Photorespiration",
+        "c": "Calvin–Benson cycle",
+        "d": "TCA cycle"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. Which metabolite acts as a key branch point between glycolysis and multiple biosynthetic pathways?",
+      "answers": {
+        "a": "Pyruvate",
+        "b": "Glucose-6-phosphate",
+        "c": "Acetyl-CoA",
+        "d": "Oxaloacetate"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. Flux in metabolic terms refers to",
+      "answers": {
+        "a": "Concentration of metabolites",
+        "b": "Enzyme abundance",
+        "c": "Rate of metabolite conversion through a pathway",
+        "d": "Gene expression level"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. The immediate product of Rubisco carboxylation is:",
+      "answers": {
+        "a": "Ribulose-5-phosphate",
+        "b": "Ribulose-5-phosphate",
+        "c": "Glyceraldehyde-3-phosphate",
+        "d": "Phosphoenolpyruvate"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. In photosynthetic MFA experiments, the most commonly used labeled substrate is:",
+      "answers": {
+        "a": "<sup>13</sup>C-glucose",
+        "b": "<sup>13</sup>C-acetate",
+        "c": "<sup>13</sup>CO<sub>2</sub>",
+        "d": "<sup>13</sup>C-sucrose"
       },
      
       "correctAnswer": "c",
