@@ -100,10 +100,10 @@
     {
       "question": "9. The immediate product of Rubisco carboxylation is:",
       "answers": {
-        "a": "Ribulose-5-phosphate",
-        "b": "Ribulose-5-phosphate",
+        "a": "Deoxyribulose-5-phosphate",
+        "b": "3-phosphoglycerate (3-PGA)",
         "c": "Glyceraldehyde-3-phosphate",
-        "d": "Phosphoenolpyruvate"
+        "d": "Pyruvate"
       },
      
       "correctAnswer": "b",

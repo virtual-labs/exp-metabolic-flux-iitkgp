@@ -11,7 +11,7 @@ Metabolic flux analysis (MFA) is a powerful approach to quantify the rates of me
 
 #### 2. Experimental Design
 - **Deciding on the labelling strategy:**
-   - Common isotopes: **<sup>13</sup>C, <sup>15</sup>N, <sup>13</sup>H**.
+   - Common isotopes: **<sup>13</sup>C (Carbon-13), <sup>15</sup>N (Nitrogen-15), <sup>2</sup>H (Deuterium)**.
    - Choosing of a suitable **labelled substrate** (e.g., <sup>13</sup>CO<sub>2</sub> for photosynthetic fluxes, <sup>13</sup>C-glucose for heterotrophic tissues).
 - **Determining the labelling duration:**
   - **Short-term pulse** for transient labelling (for dynamic flux analysis).
