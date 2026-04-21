@@ -1,0 +1,125 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Which of the following is a central metabolic pathway common to all organisms?",
+      "answers": {
+        "a": "Photosynthesis",
+        "b": "Glycolysis",
+        "c": "Nitrogen fixation",
+        "d": "C4 cycle"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. An example of a secondary metabolite in plants is:",
+      "answers": {
+        "a": "Sucrose",
+        "b": "Glucose",
+        "c": "Lignin",
+        "d": "Pyruvate"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Which discipline integrates computational models with experimental metabolic data?",
+      "answers": {
+        "a": "Genetics",
+        "b": "Systems biology",
+        "c": "Ecology",
+        "d": "Morphology"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which molecule serves as a template for protein synthesis?",
+      "answers": {
+        "a": "DNA",
+        "b": "tRNA",
+        "c": "mRNA",
+        "d": "rRNA"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Which technique is commonly used to introduce foreign genes into plant cells?",
+      "answers": {
+        "a": "Gel electrophoresis",
+        "b": "Polymerase chain reaction (PCR)",
+        "c": "Agrobacterium-mediated transformation",
+        "d": "CRISPR sequencing"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. Which process is the primary source of fixed carbon in plants?",
+      "answers": {
+        "a": "Glycolysis",
+        "b": "Photorespiration",
+        "c": "Calvin–Benson cycle",
+        "d": "TCA cycle"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. Which metabolite acts as a key branch point between glycolysis and multiple biosynthetic pathways?",
+      "answers": {
+        "a": "Pyruvate",
+        "b": "Glucose-6-phosphate",
+        "c": "Acetyl-CoA",
+        "d": "Oxaloacetate"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. Flux in metabolic terms refers to",
+      "answers": {
+        "a": "Concentration of metabolites",
+        "b": "Enzyme abundance",
+        "c": "Rate of metabolite conversion through a pathway",
+        "d": "Gene expression level"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. The immediate product of Rubisco carboxylation is:",
+      "answers": {
+        "a": "Deoxyribulose-5-phosphate",
+        "b": "3-phosphoglycerate (3-PGA)",
+        "c": "Glyceraldehyde-3-phosphate",
+        "d": "Pyruvate"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. In photosynthetic MFA experiments, the most commonly used labeled substrate is:",
+      "answers": {
+        "a": "<sup>13</sup>C-glucose",
+        "b": "<sup>13</sup>C-acetate",
+        "c": "<sup>13</sup>CO<sub>2</sub>",
+        "d": "<sup>13</sup>C-sucrose"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

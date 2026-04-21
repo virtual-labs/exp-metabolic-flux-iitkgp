@@ -1,0 +1,125 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Metabolic flux refers to:",
+      "answers": {
+        "a": "Gene expression levels",
+        "b": "Enzyme concentration",
+        "c": "Rate of turnover of metabolites in a pathway",
+        "d": "Transport of water in xylem"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. What does isotopic labeling help with in metabolic studies?",
+      "answers": {
+        "a": "Measuring pH",
+        "b": "Tracing carbon flow through metabolic pathways",
+        "c": "Identifying DNA mutations",
+        "d": "Visualizing organelles"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. In a metabolic network, nodes usually represent:",
+      "answers": {
+        "a": "Genes",
+        "b": "Enzymes",
+        "c": "Metabolites",
+        "d": "Cells"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. CRISPR/Cas9 is used in plant pathway engineering to:",
+      "answers": {
+        "a": "Increase photosynthesis efficiency",
+        "b": "Deliver mRNA",
+        "c": "Edit specific genes",
+        "d": "Produce fertilizers"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Metabolic engineering often targets which part of the plant cell?",
+      "answers": {
+        "a": "Vacuole",
+        "b": "Plasmodesmata",
+        "c": "Biosynthetic pathway",
+        "d": "Cell wall"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. A pathway shows high metabolite accumulation but low flux. What is the most likely explanation?",
+      "answers": {
+        "a": "Enzyme saturation",
+        "b": "Thermodynamic equilibrium",
+        "c": "Downstream metabolic bottleneck",
+        "d": "Increased precursor supply"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. Why does overexpression of phytoene synthase alone often fail to strongly increase carotenoid content?",
+      "answers": {
+        "a": "Phytoene is unstable",
+        "b": "Flux is limited by precursor or storage capacity",
+        "c": "PSY is transcriptionally silenced",
+        "d": "Carotenoids are toxic"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. Which parameter cannot be directly inferred from steady-state MFA?",
+      "answers": {
+        "a": "Net reaction flux",
+        "b": "Direction of reversible reactions",
+        "c": "Enzyme catalytic constant (kcat)",
+        "d": "Carbon partitioning at branch points"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. Which strategy best improves carotenoid accumulation without increasing metabolic burden?",
+      "answers": {
+        "a": "Overexpressing all pathway enzymes",
+        "b": "Enhancing chromoplast formation and storage capacity",
+        "c": "Increasing respiration",
+        "d": "Blocking glycolysis"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. In flux balance analysis (FBA), changing the objective function from “biomass” to “product synthesis” will:",
+      "answers": {
+        "a": "Eliminate stoichiometric constraints",
+        "b": "Alter predicted flux distribution",
+        "c": "Change enzyme kinetics",
+        "d": "Invalidate experimental MFA data"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
