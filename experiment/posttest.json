@@ -66,11 +66,11 @@
       "answers": {
         "a": "Enzyme saturation",
         "b": "Thermodynamic equilibrium",
-        "c": "Downstream bottleneck",
+        "c": "Downstream metabolic bottleneck",
         "d": "Increased precursor supply"
       },
      
-      "correctAnswer": "d",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
